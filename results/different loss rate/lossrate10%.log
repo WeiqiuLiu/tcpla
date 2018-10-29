@@ -1,0 +1,290 @@
+
+127.0.0.1_127.0.0.1_47586_12346:
+estimate RTT: 7.70092010498e-05
+
+packet 3: this packet probably lost after captured, 
+packet 4: retransmission, 
+packet 6: dup ack, 
+packet 33: likely retransmission, previous packet probably lost before captured
+packet 36: dup ack, 
+packet 37: likely retransmission, previous packet probably lost before captured
+packet 43: likely retransmission, previous packet probably lost before captured
+packet 48: dup ack, 
+packet 49: likely retransmission, previous packet probably lost before captured
+packet 100: likely retransmission, previous packet probably lost before captured
+packet 104: likely retransmission, previous packet probably lost before captured
+packet 110: likely retransmission, previous packet probably lost before captured
+packet 126: likely retransmission, previous packet probably lost before captured
+packet 137: dup ack, 
+packet 138: likely retransmission, previous packet probably lost before captured
+packet 146: likely retransmission, previous packet probably lost before captured
+packet 148: likely retransmission, previous packet probably lost before captured
+packet 164: likely retransmission, previous packet probably lost before captured
+packet 168: likely retransmission, previous packet probably lost before captured
+packet 201: dup ack, 
+packet 203: dup ack, 
+packet 204: likely retransmission, previous packet probably lost before captured
+packet 212: likely retransmission, previous packet probably lost before captured
+packet 218: likely retransmission, previous packet probably lost before captured
+packet 241: dup ack, 
+packet 242: likely retransmission, previous packet probably lost before captured
+packet 261: likely retransmission, previous packet probably lost before captured
+packet 292: dup ack, 
+packet 293: likely retransmission, previous packet probably lost before captured
+packet 305: likely retransmission, previous packet probably lost before captured
+packet 307: likely retransmission, previous packet probably lost before captured
+packet 324: likely retransmission, previous packet probably lost before captured
+packet 331: dup ack, 
+packet 332: likely retransmission, previous packet probably lost before captured
+packet 337: dup ack, 
+packet 338: likely retransmission, previous packet probably lost before captured
+packet 350: dup ack, 
+packet 351: likely retransmission, previous packet probably lost before captured
+packet 366: dup ack, 
+packet 367: likely retransmission, previous packet probably lost before captured
+packet 394: dup ack, 
+packet 395: likely retransmission, previous packet probably lost before captured
+packet 401: likely retransmission, previous packet probably lost before captured
+packet 405: likely retransmission, previous packet probably lost before captured
+packet 419: likely retransmission, previous packet probably lost before captured
+packet 431: dup ack, 
+packet 433: dup ack, 
+packet 434: likely retransmission, previous packet probably lost before captured
+packet 455: dup ack, 
+packet 456: likely retransmission, previous packet probably lost before captured
+packet 462: likely retransmission, previous packet probably lost before captured
+packet 488: likely retransmission, previous packet probably lost before captured
+packet 543: likely retransmission, this packet probably lost after captured, previous packet probably lost before captured
+packet 544: retransmission, this packet probably lost after captured, 
+packet 545: retransmission, 
+packet 549: dup ack, 
+packet 550: dup ack, 
+packet 551: likely retransmission, previous packet probably lost before captured
+packet 552: likely retransmission, previous packet probably lost before captured
+packet 555: likely retransmission, previous packet probably lost before captured
+packet 563: dup ack, 
+packet 565: dup ack, 
+packet 566: likely retransmission, previous packet probably lost before captured
+packet 575: likely retransmission, previous packet probably lost before captured
+packet 619: dup ack, 
+packet 620: likely retransmission, previous packet probably lost before captured
+packet 635: dup ack, 
+packet 636: likely retransmission, previous packet probably lost before captured
+packet 647: this packet probably lost after captured, 
+packet 650: retransmission, 
+packet 676: likely retransmission, previous packet probably lost before captured
+packet 696: dup ack, 
+packet 697: likely retransmission, previous packet probably lost before captured
+packet 763: this packet probably lost after captured, 
+packet 764: retransmission, 
+packet 866: this packet probably lost after captured, 
+packet 867: retransmission, 
+packet 901: dup ack, 
+packet 902: likely retransmission, previous packet probably lost before captured
+packet 919: this packet probably lost after captured, 
+packet 920: retransmission, 
+packet 967: this packet probably lost after captured, 
+packet 968: retransmission, 
+packet 972: this packet probably lost after captured, 
+packet 973: retransmission, 
+packet 990: this packet probably lost after captured, 
+packet 991: retransmission, 
+packet 1027: this packet probably lost after captured, 
+packet 1028: retransmission, 
+packet 1033: this packet probably lost after captured, 
+packet 1034: retransmission, this packet probably lost after captured, 
+packet 1035: retransmission, 
+packet 1037: this packet probably lost after captured, 
+packet 1039: retransmission, 
+packet 1042: dup ack, 
+packet 1044: likely retransmission, previous packet probably lost before captured
+packet 1085: this packet probably lost after captured, 
+packet 1086: retransmission, 
+packet 1097: this packet probably lost after captured, 
+packet 1098: retransmission, 
+packet 1100: this packet probably lost after captured, 
+packet 1101: retransmission, 
+packet 1118: dup ack, 
+packet 1119: likely retransmission, previous packet probably lost before captured
+packet 1122: dup ack, 
+packet 1125: dup ack, 
+packet 1126: likely retransmission, previous packet probably lost before captured
+packet 1137: dup ack, 
+packet 1138: likely retransmission, previous packet probably lost before captured
+packet 1196: dup ack, 
+packet 1197: likely retransmission, this packet probably lost after captured, previous packet probably lost before captured
+packet 1198: retransmission, 
+packet 1201: this packet probably lost after captured, 
+packet 1202: retransmission, 
+packet 1205: this packet probably lost after captured, 
+packet 1206: retransmission, 
+packet 1219: this packet probably lost after captured, 
+packet 1220: retransmission, 
+packet 1274: likely retransmission, previous packet probably lost before captured
+packet 1278: likely retransmission, previous packet probably lost before captured
+packet 1280: likely retransmission, previous packet probably lost before captured
+packet 1304: dup ack, 
+packet 1305: dup ack, 
+packet 1306: likely retransmission, previous packet probably lost before captured
+packet 1309: dup ack, 
+packet 1310: likely retransmission, previous packet probably lost before captured
+packet 1333: this packet probably lost after captured, 
+packet 1334: retransmission, 
+packet 1350: this packet probably lost after captured, 
+packet 1351: retransmission, 
+packet 1353: this packet probably lost after captured, 
+packet 1354: retransmission, 
+packet 1355: dup ack, 
+packet 1356: likely retransmission, previous packet probably lost before captured
+packet 1367: this packet probably lost after captured, 
+packet 1368: retransmission, 
+packet 1407: this packet probably lost after captured, 
+packet 1408: retransmission, 
+packet 1413: dup ack, 
+packet 1414: likely retransmission, previous packet probably lost before captured
+packet 1431: this packet probably lost after captured, 
+packet 1432: retransmission, 
+packet 1438: this packet probably lost after captured, 
+packet 1439: retransmission, 
+packet 1442: dup ack, 
+packet 1443: likely retransmission, previous packet probably lost before captured
+packet 1464: this packet probably lost after captured, 
+packet 1465: retransmission, 
+packet 1466: dup ack, 
+packet 1467: likely retransmission, previous packet probably lost before captured
+packet 1471: this packet probably lost after captured, 
+packet 1472: retransmission, 
+packet 1496: this packet probably lost after captured, 
+packet 1497: retransmission, 
+packet 1502: dup ack, 
+packet 1503: likely retransmission, previous packet probably lost before captured
+packet 1515: this packet probably lost after captured, 
+packet 1516: retransmission, 
+packet 1521: this packet probably lost after captured, 
+packet 1522: retransmission, 
+packet 1528: dup ack, 
+packet 1530: dup ack, 
+packet 1531: likely retransmission, previous packet probably lost before captured
+packet 1549: dup ack, 
+packet 1551: dup ack, 
+packet 1552: likely retransmission, previous packet probably lost before captured
+packet 1564: dup ack, 
+packet 1565: likely retransmission, previous packet probably lost before captured
+packet 1625: dup ack, 
+packet 1626: likely retransmission, previous packet probably lost before captured
+packet 1632: dup ack, 
+packet 1634: dup ack, 
+packet 1635: likely retransmission, previous packet probably lost before captured
+packet 1652: dup ack, 
+packet 1653: likely retransmission, previous packet probably lost before captured
+packet 1679: this packet probably lost after captured, 
+packet 1680: retransmission, 
+packet 1694: dup ack, 
+packet 1695: likely retransmission, previous packet probably lost before captured
+packet 1716: likely retransmission, previous packet probably lost before captured
+packet 1824: likely retransmission, previous packet probably lost before captured
+packet 1826: likely retransmission, previous packet probably lost before captured
+packet 1836: dup ack, 
+packet 1837: dup ack, 
+packet 1839: dup ack, 
+packet 1840: likely retransmission, previous packet probably lost before captured
+packet 1843: dup ack, 
+packet 1845: likely retransmission, previous packet probably lost before captured
+packet 1862: dup ack, 
+packet 1863: likely retransmission, previous packet probably lost before captured
+packet 1899: this packet probably lost after captured, 
+packet 1900: retransmission, 
+packet 1903: dup ack, 
+packet 1904: likely retransmission, previous packet probably lost before captured
+packet 1945: this packet probably lost after captured, 
+packet 1946: retransmission, 
+packet 1951: this packet probably lost after captured, 
+packet 1952: retransmission, 
+packet 1967: this packet probably lost after captured, 
+packet 1968: retransmission, 
+packet 2025: this packet probably lost after captured, 
+packet 2026: retransmission, 
+packet 2038: this packet probably lost after captured, 
+packet 2039: retransmission, 
+packet 2052: dup ack, 
+packet 2053: dup ack, 
+packet 2055: dup ack, 
+packet 2056: likely retransmission, previous packet probably lost before captured
+packet 2062: likely retransmission, previous packet probably lost before captured
+packet 2074: dup ack, 
+packet 2076: dup ack, 
+packet 2078: dup ack, 
+packet 2079: likely retransmission, this packet probably lost after captured, previous packet probably lost before captured
+packet 2080: retransmission, 
+packet 2085: dup ack, 
+packet 2087: dup ack, 
+packet 2089: dup ack, 
+packet 2090: likely retransmission, previous packet probably lost before captured
+packet 2103: dup ack, 
+packet 2104: dup ack, 
+packet 2106: reordering, 
+packet 2107: dup ack, 
+packet 2110: likely retransmission, this packet probably lost after captured, previous packet probably lost before captured
+packet 2111: retransmission, 
+packet 2115: dup ack, 
+packet 2116: dup ack, 
+packet 2118: likely retransmission, previous packet probably lost before captured
+packet 2119: dup ack, 
+packet 2121: likely retransmission, previous packet probably lost before captured
+packet 2130: dup ack, 
+packet 2131: dup ack, 
+packet 2132: likely retransmission, previous packet probably lost before captured
+packet 2134: likely retransmission, previous packet probably lost before captured
+packet 2138: dup ack, 
+packet 2139: dup ack, 
+packet 2140: likely retransmission, previous packet probably lost before captured
+packet 2153: this packet probably lost after captured, 
+packet 2154: retransmission, 
+packet 2202: this packet probably lost after captured, 
+packet 2203: retransmission, 
+packet 2216: this packet probably lost after captured, 
+packet 2217: retransmission, 
+packet 2244: this packet probably lost after captured, 
+packet 2245: retransmission, 
+packet 2246: dup ack, 
+packet 2247: likely retransmission, previous packet probably lost before captured
+packet 2253: likely retransmission, previous packet probably lost before captured
+packet 2255: likely retransmission, previous packet probably lost before captured
+packet 2259: dup ack, 
+packet 2260: likely retransmission, previous packet probably lost before captured
+packet 2281: dup ack, 
+packet 2282: likely retransmission, previous packet probably lost before captured
+packet 2306: this packet probably lost after captured, 
+packet 2307: retransmission, 
+packet 2340: this packet probably lost after captured, 
+packet 2341: retransmission, 
+packet 2402: this packet probably lost after captured, 
+packet 2403: retransmission, 
+packet 2442: this packet probably lost after captured, 
+packet 2443: retransmission, 
+packet 2473: dup ack, 
+packet 2474: likely retransmission, previous packet probably lost before captured
+packet 2478: dup ack, 
+packet 2479: dup ack, 
+packet 2480: likely retransmission, previous packet probably lost before captured
+packet 2489: dup ack, 
+packet 2490: likely retransmission, previous packet probably lost before captured
+packet 2519: dup ack, 
+packet 2520: likely retransmission, previous packet probably lost before captured
+packet 2558: dup ack, 
+packet 2559: likely retransmission, previous packet probably lost before captured
+packet 2591: dup ack, 
+packet 2593: dup ack, 
+packet 2594: likely retransmission, previous packet probably lost before captured
+packet 2598: dup ack, 
+packet 2599: dup ack, 
+packet 2601: dup ack, 
+packet 2602: likely retransmission, previous packet probably lost before captured
+packet 2606: dup ack, 
+packet 2607: dup ack, 
+packet 2608: likely retransmission, previous packet probably lost before captured
+packet 2616: dup ack, 
+packet 2618: dup ack, 
+packet 2619: likely retransmission, previous packet probably lost before captured
+
+In 1363 packets, 148 packets lost, loss rate: 10.858%

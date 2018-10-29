@@ -1,0 +1,43 @@
+
+127.0.0.1_127.0.0.1_59808_12345:
+estimate RTT: 0.0
+
+packet 51: likely retransmission, previous packet probably lost before captured
+packet 88: dup ack, 
+packet 89: likely retransmission, previous packet probably lost before captured
+packet 722: dup ack, 
+packet 723: likely retransmission, previous packet probably lost before captured
+packet 1230: dup ack, 
+packet 1231: likely retransmission, previous packet probably lost before captured
+packet 1639: dup ack, 
+packet 1640: likely retransmission, previous packet probably lost before captured
+packet 1665: dup ack, 
+packet 1666: likely retransmission, previous packet probably lost before captured
+packet 1745: dup ack, 
+packet 1746: likely retransmission, previous packet probably lost before captured
+packet 1891: dup ack, 
+packet 1892: likely retransmission, previous packet probably lost before captured
+packet 2010: dup ack, 
+packet 2011: likely retransmission, previous packet probably lost before captured
+packet 2021: dup ack, 
+packet 2022: likely retransmission, previous packet probably lost before captured
+packet 2028: dup ack, 
+packet 2029: likely retransmission, previous packet probably lost before captured
+packet 2306: dup ack, 
+packet 2307: likely retransmission, previous packet probably lost before captured
+packet 2323: dup ack, 
+packet 2324: likely retransmission, previous packet probably lost before captured
+packet 2426: dup ack, 
+packet 2427: likely retransmission, previous packet probably lost before captured
+packet 2563: dup ack, 
+packet 2564: likely retransmission, previous packet probably lost before captured
+packet 2643: dup ack, 
+packet 2644: likely retransmission, previous packet probably lost before captured
+packet 2689: dup ack, 
+packet 2690: likely retransmission, previous packet probably lost before captured
+packet 3139: dup ack, 
+packet 3140: likely retransmission, previous packet probably lost before captured
+packet 3303: dup ack, 
+packet 3304: likely retransmission, previous packet probably lost before captured
+
+In 1288 packets, 19 packets lost, loss rate: 1.4751%

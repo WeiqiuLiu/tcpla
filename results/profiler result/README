@@ -1,0 +1,7 @@
+--To open the data.pyprof file
+
+Usage: python viprf.py
+
+--output.png is the graph format of profiler results
+
+--Weiqiu Liu 2017-05-16 03:28:09
